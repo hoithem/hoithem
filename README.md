@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @hoithem
-- 👀 I’m interested in codding
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning p5.js
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me email: tinhoithem.lhungdim@gmail.com
+- 📫 How to reach me
+Email: tinhoithem.lhungdim@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
